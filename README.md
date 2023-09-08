@@ -49,7 +49,7 @@ Aprimorar o conhecimento essencial para a criação de uma página web integrada
     </tr>
     <tr>
       <th>05</th>
-      <td>Dominando p Protocolo HTTP e Integrando a om PokeAPI</td>
+      <td>Dominando Protocolo HTTP e Integrando a om PokeAPI</td>
     </tr>
     <tr>
       <th>06</th>
