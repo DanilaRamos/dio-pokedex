@@ -2,6 +2,7 @@
     <img align="center" width="60px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c325.png"></a>
     <span> Pokédex </span>
 </h1>
+
 O desenvolvimento deste emocionante projeto envolve a utilização da PokeAPI para criar uma página web interativa e responsiva, destacando os icônicos personagens da 1ª geração de Pokémon. Os usuários terão a oportunidade de explorar uma variedade de imagens desses adoráveis monstros de bolso e, ao clicarem em seu Pokémon favorito, serão recompensados com um popup contendo informações detalhadas sobre o personagem escolhido. Esta iniciativa combina o fascínio pelo mundo dos Pokémon com habilidades de programação, oferecendo uma experiência envolvente e educativa para os entusiastas e aspirantes a desenvolvedores.
 <div align="center">
 <img align="center" width="400px" src="https://github.com/DanilaRamos/dio-pokedex/assets/104326333/b8d9891d-2261-4e48-b50f-08910a4ecdd7">
