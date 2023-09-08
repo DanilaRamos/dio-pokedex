@@ -1,5 +1,5 @@
 
-# Pokedex 
+# <div align="center"> Pokedex  </div>
 
 O desenvolvimento deste emocionante projeto envolve a utilização da PokeAPI para criar uma página web interativa e responsiva, destacando os icônicos personagens da 1ª geração de Pokémon. Os usuários terão a oportunidade de explorar uma variedade de imagens desses adoráveis monstros de bolso e, ao clicarem em seu Pokémon favorito, serão recompensados com um popup contendo informações detalhadas sobre o personagem escolhido. Esta iniciativa combina o fascínio pelo mundo dos Pokémon com habilidades de programação, oferecendo uma experiência envolvente e educativa para os entusiastas e aspirantes a desenvolvedores.
 
